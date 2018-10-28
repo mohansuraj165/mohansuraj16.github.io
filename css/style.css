@@ -11,7 +11,7 @@ img{
 }
 html {
     overflow-y: scroll;
-<<<<<<< HEAD
+
 }
 
 @media only screen and (max-width:1200px){
@@ -38,7 +38,4 @@ html {
         width:100%;
     }
 
-
-=======
->>>>>>> 1400078... Fixed bug Commit
 }
